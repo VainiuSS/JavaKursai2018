@@ -5,6 +5,7 @@ public interface Duztantis extends Materialus{
 	
 	public void suskilti();
 	public void subyreti();
+	public void upsis();
 	
 	
 }
